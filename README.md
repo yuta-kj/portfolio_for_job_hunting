@@ -3,7 +3,7 @@
 参考資料としてご参照ください。  
 
 ・v15.ipynb（独自に作成）  
-  &emsp;スクールの提出課題で作成。
+  &emsp;スクールの提出課題で作成。  
   &emsp;ライブドアニュースコーパスのLSTMによる自然言語学習モデル  
   
 ・tabular-playground-series-jun-2021.ipynb (独自に作成)  
